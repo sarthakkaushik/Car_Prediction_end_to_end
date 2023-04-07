@@ -3,4 +3,5 @@ numpy
 matplotlib
 seaborn
 sklearn
+feature-engine
 -e .
