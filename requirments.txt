@@ -2,6 +2,11 @@ pandas
 numpy
 matplotlib
 seaborn
-sklearn
+scikit-learn
 feature-engine
--e .
+#catboost
+xgboost
+#-e .
+
+
+#to intall lib from reauirments.txt type pip install -r requirments.txt
